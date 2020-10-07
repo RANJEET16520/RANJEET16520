@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 <img alt="Beast" width="26px" src="https://drive.google.com/file/d/1oxDUS9w9FBlLjGL0yxbW2NzJoYIPD4Rb/view?usp=sharing" />
 -->
 <link rel="stylesheet" href="space.css"></link>
+
 ### 📫 Contact me at ranjeetwalia2000@gmail.com.
 ### ⚡ Fun fact: <img width = "20" height = "20" src="https://github.com/RANJEET16520/RANJEET16520/blob/main/Images/Beast%20logo.png" class="padding"/> Beast Mode - Eat Sleep Code Repeat
 <p align="center"><img align="center" alt="Ranjeet Walia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RANJEET16520&show_icons=true" /> </p>
