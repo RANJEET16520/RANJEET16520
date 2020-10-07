@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <link rel="stylesheet" href="https://github.com/RANJEET16520/RANJEET16520/blob/main/space.css"></link>
 
-### 📫 Contact me at ranjeetwalia2000@gmail.com.
-### ⚡ Fun fact: <img width = "20" height = "20" src="https://github.com/RANJEET16520/RANJEET16520/blob/main/Images/Beast%20logo.png" class="padding"/> Beast Mode - Eat Sleep Code Repeat
+## 📫 Contact me at ranjeetwalia2000@gmail.com.
+## ⚡ Fun fact: <img width = "20" height = "20" src="https://github.com/RANJEET16520/RANJEET16520/blob/main/Images/Beast%20logo.png" class="padding"/> Beast Mode - Eat Sleep Code Repeat
 <p align="center"><img align="center" alt="Ranjeet Walia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RANJEET16520&show_icons=true" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RANJEET16520" alt="RANJEET16520" /> </p>
 
