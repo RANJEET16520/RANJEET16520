@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 -->
 - ⚡ Fun fact: Beast Mode - Eat Sleep Code Repeat
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RANJEET16520" alt="RANJEET16520" /> </p>
 
 ### Connect with me:
 
