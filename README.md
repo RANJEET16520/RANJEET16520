@@ -15,3 +15,14 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun fact: Beast Mode - Eat Sleep Code Repeat
 
+### Connect with me:
+
+[<img align="left" alt="Ranjeet Walia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ranjeet Walia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ranjeet Walia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[twitter]: https://twitter.com/RanjeetWalia3
+[instagram]: https://www.instagram.com/ranjeet_16520/?hl=en
+[linkedin]: https://www.linkedin.com/in/ranjeet-walia-3336b4148/
