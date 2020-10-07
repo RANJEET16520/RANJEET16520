@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ranjeet Walia
+# Hi there 👋 I'm Ranjeet Walia
 
 <!--
 **RANJEET16520/RANJEET16520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
