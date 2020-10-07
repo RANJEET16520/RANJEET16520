@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="Ranjeet Walia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40"/>][twitter]
