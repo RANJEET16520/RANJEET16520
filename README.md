@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- ⚡ Fun fact: Beast Mode - Eat Sleep Code Repeat
+- ⚡ Fun fact: <img align="left" alt="Beast" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Beast Mode - Eat Sleep Code Repeat
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RANJEET16520" alt="RANJEET16520" /> </p>
 
 ### Connect with me:
 
-[<img align="left" alt="Ranjeet Walia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ranjeet Walia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ranjeet Walia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ranjeet Walia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40"/>][twitter]
+[<img align="left" alt="Ranjeet Walia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"/>][linkedin]
+[<img align="left" alt="Ranjeet Walia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>][instagram]
 
 <br />
 
