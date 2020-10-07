@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
+[<img align="left" alt="Ranjeet Walia | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40" height="40"/>][gmail]
 [<img align="left" alt="Ranjeet Walia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40"/>][twitter]
 [<img align="left" alt="Ranjeet Walia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"/>][linkedin]
 [<img align="left" alt="Ranjeet Walia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>][instagram]
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+[gmail] : ranjeetwalia2000@gmail.com
 [twitter]: https://twitter.com/RanjeetWalia3
 [instagram]: https://www.instagram.com/ranjeet_16520/?hl=en
 [linkedin]: https://www.linkedin.com/in/ranjeet-walia-3336b4148/
