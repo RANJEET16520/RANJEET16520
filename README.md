@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 
 <br />
 
+### Languages and Tools:
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+
 [twitter]: https://twitter.com/RanjeetWalia3
 [instagram]: https://www.instagram.com/ranjeet_16520/?hl=en
 [linkedin]: https://www.linkedin.com/in/ranjeet-walia-3336b4148/
+
