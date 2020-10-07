@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ranjeet Walia
+## Hi there 👋 I'm Ranjeet Walia
 
 <!--
 **RANJEET16520/RANJEET16520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 -->
 - 📫 Contact me at ranjeetwalia2000@gmail.com.
 - ⚡ Fun fact: Beast Mode - Eat Sleep Code Repeat
+<p align="center"><img align="center" alt="Ranjeet Walia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RANJEET16520&show_icons=true" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RANJEET16520" alt="RANJEET16520" /> </p>
+
+</details>
 
 <br />
 <br />
