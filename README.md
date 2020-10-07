@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- ⚡ Fun fact: <img alt="Beast" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Beast Mode - Eat Sleep Code Repeat
+- ⚡ Fun fact: <img alt="Beast" width="26px" src="https://drive.google.com/file/d/1oxDUS9w9FBlLjGL0yxbW2NzJoYIPD4Rb/view?usp=sharing" /> Beast Mode - Eat Sleep Code Repeat
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RANJEET16520" alt="RANJEET16520" /> </p>
 
 ### Connect with me:
