@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="https://twitter.com/RanjeetWalia3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/ranjeet-walia-3336b4148/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.instagram.com/ranjeet_16520/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src = "https://twitter.com/RanjeetWalia3" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img src="https://www.linkedin.com/in/ranjeet-walia-3336b4148/" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://www.instagram.com/ranjeet_16520/" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
