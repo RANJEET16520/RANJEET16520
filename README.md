@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
+<img alt="Beast" width="26px" src="https://drive.google.com/file/d/1oxDUS9w9FBlLjGL0yxbW2NzJoYIPD4Rb/view?usp=sharing" />
 -->
-- ⚡ Fun fact: <img alt="Beast" width="26px" src="https://drive.google.com/file/d/1oxDUS9w9FBlLjGL0yxbW2NzJoYIPD4Rb/view?usp=sharing" /> Beast Mode - Eat Sleep Code Repeat
+- ⚡ Fun fact: Beast Mode - Eat Sleep Code Repeat
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RANJEET16520" alt="RANJEET16520" /> </p>
 
 ### Connect with me:
