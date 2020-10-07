@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img align="left" alt="Ranjeet Walia | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40" height="40"/>
 [<img align="left" alt="Ranjeet Walia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40"/>][twitter]
 [<img align="left" alt="Ranjeet Walia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"/>][linkedin]
 [<img align="left" alt="Ranjeet Walia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>][instagram]
