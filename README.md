@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Ranjeet Walia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40"/>][twitter]
 [<img align="left" alt="Ranjeet Walia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"/>][linkedin]
 [<img align="left" alt="Ranjeet Walia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>][instagram]
+[<img align="left" alt="Ranjeet Walia | CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40"/>][codechef]
 
 <br />
 <br />
@@ -54,4 +55,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/RanjeetWalia3
 [instagram]: https://www.instagram.com/ranjeet_16520/?hl=en
 [linkedin]: https://www.linkedin.com/in/ranjeet-walia-3336b4148/
-
+[codechef]: https://www.codechef.com/users/ranjeet_16520
