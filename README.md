@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Ranjeet Walia
 
+- 🌱 I'm currently enhancing my knowledge in Machine Learning.
+
 - 📫 Contact me at ranjeetwalia2000@gmail.com.
 
-- ⚡ Fun fact: <img width = "20" height = "20" src="https://github.com/RANJEET16520/RANJEET16520/blob/main/Images/Beast%20logo.png"/> Beast Mode - Eat Sleep Code Repeat
+- ⚡ Fun fact: <img width = "20" height = "20" src="https://github.com/RANJEET16520/RANJEET16520/blob/main/Images/Beast%20logo.png"/> Beast Mode - Eat Sleep Code Repeat.
 
 <!--
 **RANJEET16520/RANJEET16520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
