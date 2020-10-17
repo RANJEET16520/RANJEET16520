@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <p align="left">
-<a href="https://linkedin.com/in/rohitkaushal7" target="blank"><img align="left" alt="Python" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-</p>
+
+<a href="https://www.python.org/" target="blank"><img align="left" alt="Python" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
 <img align="left" alt="C" width = "50" height = "50" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" />
 <img align="left" alt="C++" width = "50" height = "50" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="SQL" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+</p>
 
 
 [twitter]: https://twitter.com/RanjeetWalia3
