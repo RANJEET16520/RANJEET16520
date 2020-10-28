@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/" target="blank"><img align="left" alt="Python" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
 <a href="https://www.programiz.com/c-programming" target="blank"><img align="left" alt="C" width = "50" height = "50" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" /></a>
 <a href="https://www.programiz.com/cpp-programming" target="blank"><img align="left" alt="C++" width = "50" height = "50" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" /></a>
-<img align="left" alt="SQL" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<a href="https://www.w3schools.com/sql/" target="blank"><img align="left" alt="SQL" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
 <img align="left" alt="MySQL" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="PostgreSQL" width = "50" height = "50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Tensorflow" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
