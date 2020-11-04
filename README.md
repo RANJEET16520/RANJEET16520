@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/sql/" target="blank"><img align="left" alt="SQL" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
 <a href="https://www.mysql.com/" target="blank"><img align="left" alt="MySQL" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 <a href="https://www.postgresqltutorial.com/" target="blank"><img align="left" alt="PostgreSQL" width = "50" height = "50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" /></a>
-<a href="https://www.postgresqltutorial.com/" target="blank"><img align="left" alt="Tensorflow" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></a>
+<a href="https://www.tensorflow.org/" target="blank"><img align="left" alt="Tensorflow" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></a>
 <img align="left" alt="Linux" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="OpenCV" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 <img align="left" alt="Matlab" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
