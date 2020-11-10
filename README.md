@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <a href="https://www.tensorflow.org/" target="blank"><img align="left" alt="Tensorflow" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></a>
 <a href="https://www.linux.org/" target="blank"><img align="left" alt="Linux" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a>
 <img align="left" alt="OpenCV" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
-<img align="left" alt="Matlab" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<a href="https://www.mathworks.com/products/matlab.html" target="blank"><img align="left" alt="Matlab" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" /></a>
 <img align="left" alt="Git" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width = "50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
